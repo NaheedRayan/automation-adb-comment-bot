@@ -3,6 +3,20 @@ Spam bot using python and adb
 
 ## Desclaimer :This is for educational purpose only
 
+
+## How to use:
+
+- Go to the comment section in any post and acquire the x,y position of the enter key on the fb screen.
+- Change the input tap command with your device x,y cordinate of the message sent button in commnet section.
+- Now run the script.
+
+
+I have used this script in facebook.What this script does is that it randomly selects a comment from the comment list. Then it randomly generates a number from
+3 to 6 seconds and writes the message in the keyboard.
+### Through my testing I have found that through this method one can write 180-200 comments in 15 minutes. After this time period facebook will ban any kind of comment.So its safe to use 150 comment and sleep for 30 min.
+
+<br>
+
 ![](image01.png)
 
 <br>
